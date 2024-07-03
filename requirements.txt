@@ -4,4 +4,6 @@ nltk
 matplotlib
 wordcloud
 bertopic
+gensim
+scikit-learn
 plotly
