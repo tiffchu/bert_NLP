@@ -1,7 +1,7 @@
 # Streamlit NLP Preprocessing and Topic Modeling App
 This application lets you upload a CSV file, select a text column for NLP preprocessing, and perform topic modeling to visualize the topics using BERTopic.
 
-CLICK HERE FOR THE DEMO!! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][https://topicmodel-bert.streamlit.app](https://bertnlp-2.streamlit.app/)
+CLICK HERE FOR THE DEMO!! [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][[https://topicmodel-bert.streamlit.app](https://bertnlp-2.streamlit.app/)](https://bertnlp-2.streamlit.app/)
 
 
 ## Features
