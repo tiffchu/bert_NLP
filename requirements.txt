@@ -7,4 +7,4 @@ bertopic
 gensim
 scikit-learn
 plotly
-hdbscan==0.8.29
+hdbscan==0.8.37
