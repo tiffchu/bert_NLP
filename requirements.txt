@@ -8,3 +8,4 @@ gensim
 scikit-learn
 plotly
 hdbscan==0.8.37
+scipy==1.12
