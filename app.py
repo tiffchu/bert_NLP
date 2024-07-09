@@ -17,6 +17,11 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
 
+st.set_page_config(
+    page_title="Natural Language Processing App",
+    page_icon="👋",
+)
+
 # Function to preprocess text
 def preprocess_text(text):
     if isinstance(text, str):  # Check if the input is a string
@@ -38,7 +43,8 @@ def create_wordcloud(text, title):
     st.pyplot(plt)
 
 # Title and description
-st.title("NLP Preprocessing and Topic Modeling App")
+st.title("Natural Language Processing Tools")
+st.sidebar.success("Select a tool above.")
 st.write("""
 Upload a CSV file, select a text column for NLP preprocessing,
 and perform topic modeling to visualize the topics using BERTopic.
